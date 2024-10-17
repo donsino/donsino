@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okoli Augustine A.
 
-**Software Developer | Virtual Assistant | Backend Developer | Database Administrator**
+**Web Developer | Virtual Assistant | Backend Developer | Database Administrator**
 
 ---
 ![Profile Views](https://hits.sh/github.com/donsino.svg?style=for-the-badge)
