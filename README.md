@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okoli Augustine A.
 
-**Web Developer | Virtual Assistant | Backend Developer | Database Administrator**
+**Software Developer | Virtual Assistant  | Tech Tutor**
 
 ---
 ![Profile Views](https://hits.sh/github.com/donsino.svg?style=for-the-badge)
@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I specialize in creating efficient software soluti
 
 ## 🚀 What I Offer
 
-### 🖥️ **Software Development & Backend Engineering**
+### 🖥️ **Software Development **
 I build robust, scalable, and efficient web and backend solutions using:
-- **Java, JavaScript, HTML, CSS**
+- **Java, JavaScript, Python, HTML, CSS**
 - API development and integration
 - Database management with **MySQL**
 
