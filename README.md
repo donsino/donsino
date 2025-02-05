@@ -43,7 +43,7 @@ I help businesses and individuals get up to speed with software and tech:
 
 - **Results-Driven**: I focus on delivering high-quality solutions that meet your business goals.
 - **Reliable & Communicative**: I keep clients in the loop at every step and deliver on time.
-- **Proven Experience**: From backend development to virtual assistance, I’ve successfully worked on a variety of projects, including my final year project, **Predicting the Career Pathway of College Graduates**.
+- **Proven Experience**: From backend development to virtual assistance, I’ve successfully worked on various projects, including my final year project, **Predicting the Career Pathway of College Graduates**.
 - **Versatile**: Whether you need a developer to build your website, a virtual assistant to handle administrative tasks, or a technology educator to train your team, I've got you covered.
 
 ---
@@ -94,4 +94,4 @@ I’m always looking to collaborate on exciting projects and help businesses gro
 
 ---
 
-Let’s bring your ideas to life—contact me today and let's get started!
+Let’s bring your ideas to life—contact me today and get started!
