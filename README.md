@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I specialize in creating efficient software soluti
 
 ## 🚀 What I Offer
 
-### 🖥️ **Software Development **
+### 🖥️ **Software Development**
 I build robust, scalable, and efficient web and backend solutions using:
 - **Java, JavaScript, Python, HTML, CSS**
 - API development and integration
