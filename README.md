@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okoli Augustine A.
 
-**Software Developer | Virtual Assistant  | Tech Tutor**
+**Software Developer | Tech Virtual Assistant  | Tech Tutor**
 
 ---
 ![Profile Views](https://hits.sh/github.com/donsino.svg?style=for-the-badge)
